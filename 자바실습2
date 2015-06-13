@@ -6,7 +6,7 @@
   </head>
   <body>
     <script type="text/javascript">
-      alert('1*7');
+      alert(2*6);
     </script>
   </body>
 </html>
